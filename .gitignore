@@ -1,0 +1,43 @@
+# Virtual environment
+.venv/
+.env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE-specific files (PyCharm)
+.idea/
+*.iml
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Data files (managed by DVC instead)
+data/*.csv
+data/*.pkl
+!data/.gitignore  # Keep data/.gitignore if you create one
+
+# Model files (managed by MLflow/DVC or local testing)
+models/*.pkl
+models/transformer_model/
+
+# Build artifacts (from Docker or CI/CD)
+build/
+dist/
+*.egg-info/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Security scan reports (e.g., Trivy)
+*.json
+*.report
+
+# MLflow tracking (local runs, managed by MLflow server)
+mlruns/
