@@ -39,5 +39,8 @@ dist/
 *.json
 *.report
 
+data/
+.dvc
+
 # MLflow tracking (local runs, managed by MLflow server)
 mlruns/
