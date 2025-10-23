@@ -22,8 +22,7 @@ data/*.pkl
 !data/.gitignore  # Keep data/.gitignore if you create one
 
 # Model files (managed by MLflow/DVC or local testing)
-models/*.pkl
-models/transformer_model/
+
 
 # Build artifacts (from Docker or CI/CD)
 build/
@@ -43,4 +42,3 @@ data/
 .dvc
 
 # MLflow tracking (local runs, managed by MLflow server)
-mlruns/

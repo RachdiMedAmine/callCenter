@@ -1,0 +1,10 @@
+artifact_location: file:///kaggle/working/mlruns/0/models/m-404e7dda6b4848c9808ecf87fd97728d/artifacts
+creation_timestamp: 1761075907357
+experiment_id: '0'
+last_updated_timestamp: 1761075911042
+model_id: m-404e7dda6b4848c9808ecf87fd97728d
+model_type: null
+name: tfidf_svm_model
+source_run_id: cafd85f7d2d745e1a19ed0db77796ee4
+status: 2
+status_message: null

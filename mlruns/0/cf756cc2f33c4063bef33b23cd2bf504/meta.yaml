@@ -1,0 +1,14 @@
+artifact_uri: file:///kaggle/working/mlruns/0/cf756cc2f33c4063bef33b23cd2bf504/artifacts
+end_time: 1761075968739
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf756cc2f33c4063bef33b23cd2bf504
+run_name: TF-IDF_SVM_Initial
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761075965451
+status: 3
+tags: []
+user_id: root
